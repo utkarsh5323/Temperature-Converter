@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+    background-color: rgb(177, 197, 197);
+    color: black;
+    
+  }
+  
+  select {
+    padding: 10px;
+    background-color: deeppink;
+    color: black;
+  }
+  
+  button {
+    padding: 10px 20px;
+    color: black;
+    background-color: chartreuse;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+*{
+    background-color: brown;
+}
